@@ -1,5 +1,5 @@
 PREFIX=docker-machine-driver-kvm
-MACHINE_VERSION=v0.14.0
+MACHINE_VERSION=0.14.0
 GO_VERSION=1.11
 DESCRIBE=$(shell git describe --tags)
 
